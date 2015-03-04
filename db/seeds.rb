@@ -12,11 +12,11 @@ Post.create (
 				[
 	  				{ 
 	  					"title" => "Wow I love blogging and I really love rails!",
-	  					"body" => "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
+	  					"body" => "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
 	  				},
 	  				{
 	  					"title" => "Still loving this, even at nearly 5 o'clock!",
-	  					"body" => "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
+	  					"body" => "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
 	  				}
 	  			]
   			)
